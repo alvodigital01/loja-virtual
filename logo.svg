@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150" role="img" aria-labelledby="title desc">
+  <title id="title">Brands For You</title>
+  <desc id="desc">Logo tipográfico Brands For You Oscar Freire 954</desc>
+  <rect x="2" y="2" width="476" height="146" rx="22" fill="#ffffff" stroke="#141414" stroke-width="2"/>
+  <text x="240" y="66" text-anchor="middle" font-family="Times New Roman, serif" font-size="54" letter-spacing="3" fill="#111">BRANDS</text>
+  <text x="240" y="94" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="22" letter-spacing="4" fill="#111">FOR YOU</text>
+  <text x="240" y="129" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="16" letter-spacing="2" fill="#555">Oscar Freire 954</text>
+</svg>
